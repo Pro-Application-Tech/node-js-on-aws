@@ -3,7 +3,7 @@
 ## General information
 
 This repository has been built for the following blog
-article:
+article: https://proapplicationtech.com/blog/launching-a-node-js-api-on-aws-ec2-express-mongodb-nginx
 
 There is also a Postman collection for use with the
 repository: https://documenter.getpostman.com/view/15450146/2s8Z6yXDD1 (details in the article mentioned above)
